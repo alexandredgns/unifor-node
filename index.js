@@ -36,6 +36,3 @@ app.listen(process.env.PORT ?? 3000, function(erro){
         console.log("Servidor iniciado")
     }
 })
-
-//token git
-// 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
